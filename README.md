@@ -1,5 +1,5 @@
 <h2>
-    The o3DIAG ELM/ECU Emulator (o3DIAG E/EE)
+    o3DIAG ELM/ECU Emulator (o3DIAG E/EE) for o3DIAG
 </h2>
 <p>
   o3DIAG E/EE is a software tool designed to simulate a vehicle's OBD-II interface. 
